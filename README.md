@@ -1,4 +1,4 @@
-# Hi there 👋, My name is Maciek
+# Hi there 👋 My name is Maciek
 ## I am learning web development.
 I am a truck driver. I enjoy my job, but I've decided to try something different. I've always been passionate about computer science, so I chose programming. To start, I decided to learn HTML/CSS and then move on to JavaScript just to see if I like it at all.
 
