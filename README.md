@@ -7,6 +7,7 @@ I am a truck driver. I enjoy my job, but I've decided to try something different
 *💻 HTML / CSS / later JS
 
 ### Most recent project:
+#### 🔭 My solutions from the Frontend Mentors website [FrontendMentor-challenges](https://macpio2186.github.io/FrontendMentor-challenges/)
 #### 🔭 I'm currently working on creating a blog where I will showcase my learning progress.
 
 ## Stuff I know 😊
